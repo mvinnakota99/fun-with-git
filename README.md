@@ -3,3 +3,5 @@
 Have fun with git :-)
 
 I will, thanks!
+
+![Corgi](corgi.jpg)
